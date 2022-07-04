@@ -2,9 +2,13 @@
 
 Following are the examples of Data analysis projects to showcase the experience with different Analytical tools.
 
-### Markdown
+### Project 1: Data Exploration with SQL
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image](https://user-images.githubusercontent.com/88632911/177135102-9930c500-179f-4a1d-bd33-60d4c09d31c6.png)
+
+
+Using SQL server to explore data for an insurance company customer database. The analysis gave a clearer picture of the company's customer base and how to target that segment.
+Check the project at (https://github.com/farwaabatool/Farwa_Portfolio/blob/main/SQL%20Customer%20segment)
 
 ```markdown
 Syntax highlighted code block
