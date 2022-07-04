@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Data Analysis Projetcs
 
-You can use the [editor on GitHub](https://github.com/farwaabatool/Farwa_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Following are the examples of Data analysis projects to showcase the experience with different Analytical tools.
 
 ### Markdown
 
