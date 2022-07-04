@@ -8,7 +8,7 @@ Following are the examples of Data analysis projects to showcase the experience 
 
 
 Using SQL server to explore data for an insurance company customer database. The analysis gave a clearer picture of the company's customer base and how to target that segment.
-Check the project at (https://github.com/farwaabatool/Farwa_Portfolio/blob/main/SQL%20Customer%20segment)
+Check the project at [Basic writing and formatting syntax](https://github.com/farwaabatool/Farwa_Portfolio/blob/main/SQL%20Customer%20segment)
 
 ```markdown
 Syntax highlighted code block
