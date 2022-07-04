@@ -1,0 +1,34 @@
+select subscribed, Avg(payment)as Average_CustPay FROM xyz Group by subscribed
+2. select education, round(AVG(income),2) as Total_Income From xyz group by education
+Order by Total_Income Desc;
+3. SELECT id, income, gender FROM xyz WHERE id BETWEEN 1000 AND 1500
+4. SELECT id, payment AS payment_dollar, 180 as conversion_rate, payment*180 as
+payment_pkr FROM xyz WHERE (payment*180) > 10000;
+5. Select education, round(avg((payment)/(Income)),8) as Avg_ratio from xyz group by
+education order by Avg_ratio Desc;
+6. Select count(*) as unique_demo, Career, Marital_Statues, Gender,Education from xyz
+Group by career, marital_statues, gender, education Order by Unique_demo Desc;
+7. Select id, income, education, gender, subscribed from xyz where income < 100000 and
+gender = 'Female' and (education = 'primary education' or education = 'professional
+education') and subscribed = 'yes'
+8. Select subscribed, sum(payment) as lost_pay from xyz where subscribed='no' group by
+subscribed
+9. SELECT DISTINCT career FROM xyz
+10. SELECT COUNT(*) as Cust_freq, career from xyz GROUP BY career ORDER BY Cust_freq
+ASC
+11. SELECT * FROM xyz WHERE income = ( SELECT MAX(income) FROM xyz)
+12. SELECT COUNT(*) as Churn_cust FROM xyz WHERE subscribed = 'no'
+13. SELECT * FROM xyz WHERE id = 999
+14. SELECT COUNT(*) AS Total_cust FROM xyz
+15. SELECT AVG(payment) AS Avg_pay, career, marital_statues, gender, education,
+mortgage, personal_loan, contact_type FROM xyz GROUP BY career, marital_statues,
+gender, education, mortgage, personal_loan, contact_type ORDER BY Avg_pay DESC
+16. SELECT id as Cust_ID, career FROM xyz WHERE career LIKE 's%'
+17. SELECT DISTINCT age as Age_range FROM xyz WHERE subscribed = 'yes' ORDER BY age
+ASC
+18. SELECT id as Cust_ID, number_of_contacts, payment as pay_freq FROM xyz ORDER BY
+pay_freq DESC
+19. SELECT COUNT(*) as Frequency, contact_type as Comm_method FROM xyz GROUP BY
+contact_type ORDER BY contact_type DESC
+20. SELECT COUNT(*) as Cust_loan_mortgage FROM xyz WHERE mortgage = 'yes' and
+personal_loan = 'yes
