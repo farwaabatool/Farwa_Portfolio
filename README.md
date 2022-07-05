@@ -16,6 +16,8 @@ Check the project at [SQL Customer Segment](https://github.com/farwaabatool/Farw
 
 
 The R packages for SQL i.e 'sqldf' and 'SQLite' were used to explore the employee databse for an apparel company. The analysis helped get a better understanding of the employees of the company and how to increase their productivity.
+
+
 You can view the projects at [SQL proects in R](https://github.com/farwaabatool/Farwa_Portfolio/tree/main/SQL%20packages%20in%20R) 
 ## Header 2
 ### Header 3
