@@ -1,4 +1,4 @@
-# Data Analysis Projetcs
+# Data Analysis Projects
 
 Following are the examples of Data analysis projects to showcase the experience with different analytical tools.
 
@@ -67,5 +67,7 @@ View the project at [Logistic Regression Analysis](https://github.com/farwaabato
 
 
 Email address: Farwabatool569@gmail.com
+
+
 LinkedIn: [Farwa Batool](https://www.linkedin.com/in/farwa-batool/)
 
