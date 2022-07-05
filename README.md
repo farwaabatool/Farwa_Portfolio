@@ -1,6 +1,6 @@
-## Data Analysis Projetcs
+# Data Analysis Projetcs
 
-Following are the examples of Data analysis projects to showcase the experience with different Analytical tools.
+Following are the examples of Data analysis projects to showcase the experience with different analytical tools.
 
 ### Project 1: Data Exploration with SQL
 
@@ -8,6 +8,8 @@ Following are the examples of Data analysis projects to showcase the experience 
 
 
 Using SQL server to explore data for an insurance company customer database. The analysis gave a clearer picture of the company's customer base and how to target that segment.
+
+
 Check the project at [SQL Customer Segment](https://github.com/farwaabatool/Farwa_Portfolio/blob/main/SQL%20Customer%20segment)
 
 ## Project 2: Data Exploration using R with sql packages
@@ -18,27 +20,50 @@ Check the project at [SQL Customer Segment](https://github.com/farwaabatool/Farw
 The R packages for SQL i.e 'sqldf' and 'SQLite' were used to explore the employee databse for an apparel company. The analysis helped get a better understanding of the employees of the company and how to increase their productivity.
 
 
-You can view the projects at [SQL proects in R](https://github.com/farwaabatool/Farwa_Portfolio/tree/main/SQL%20packages%20in%20R) 
-## Header 2
-### Header 3
+You can view the projects at [SQL projects in R](https://github.com/farwaabatool/Farwa_Portfolio/tree/main/SQL%20packages%20in%20R) 
 
-- Bulleted
-- List
+## Project 3: Customer Analysis using BTYD package and CLVTools package in R
 
-1. Numbered
-2. List
+![image](https://user-images.githubusercontent.com/88632911/177288775-75a2ef6d-ea4e-4b3c-bcfd-3bcfac44c947.png)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+To gauge the customer lifetime value of a snacks company and an apparel company, CLVTools and BTYD package. CLVTools enables us to get accurate the lifetime vakue of a customer, whereas BTYD predicts the cunsomer behaviour. These packages in the analysis helped in making the customer acquisition process more efficient and increasing the retention rate. 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+The projects can be viewed at [CLV Analysis](https://github.com/farwaabatool/Farwa_Portfolio/tree/main/Customer%20Analysis)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/farwaabatool/Farwa_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Project 3: A/B Testing using R
 
-### Support or Contact
+![image](https://user-images.githubusercontent.com/88632911/177291978-5c77dd74-43dc-4e70-a590-898aaccfe51c.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+Using R, performance of two different email campaigns was checked by running an A/B test and determined which email campaign had better result.
+
+
+View the project at [A/B Testing](https://github.com/farwaabatool/Farwa_Portfolio/blob/main/PI%20AB%20Test.R)
+
+## Project 4: Linear Regression using R
+
+![image](https://user-images.githubusercontent.com/88632911/177293466-9370a211-0c10-4843-a302-74ce5c66ab88.png)
+
+
+Linear Regression was run on the dataset of marekting department for a cosmetic company, to determine which marketing platform is significant for spreading their messgae and what platfrom to remove to reduce cost.
+
+
+View the project at [Linear Regression Analysis](https://github.com/farwaabatool/Farwa_Portfolio/blob/main/Linear%20regression%20using%20R.R)
+
+## Project 4: Logistic Regression using R
+
+![image](https://user-images.githubusercontent.com/88632911/177294856-514db7f9-8920-44a9-a885-655eeefff248.png)
+
+
+TO predict the future orders for a bakery, Logistic regression was run to create a model with good accuracy that will help in the prediction.
+
+
+View the project at [Logistic Regression Analysis](https://github.com/farwaabatool/Farwa_Portfolio/blob/main/Logistic%20Regression%20using%20R.R)
+
+
+###You can reach out to me at 
+Email address: Farwabatool569@gmail.com
+LinkedIn: [Farwa Batool](https://www.linkedin.com/in/farwa-batool/)
+
