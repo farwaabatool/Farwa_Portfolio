@@ -1,6 +1,3 @@
-# set working directory
-setwd("D:/Teaching/IBA Fall 2021")
-
 # Read data
 spw <- read.csv(file.choose(), header = TRUE)
 
