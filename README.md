@@ -2,7 +2,7 @@
 
 Following are the examples of Data analysis projects to showcase the experience with different analytical tools.
 
-### Project 1: Data Exploration with SQL
+## Project 1: Data Exploration with SQL
 
 ![image](https://user-images.githubusercontent.com/88632911/177135102-9930c500-179f-4a1d-bd33-60d4c09d31c6.png)
 
