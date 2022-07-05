@@ -10,10 +10,13 @@ Following are the examples of Data analysis projects to showcase the experience 
 Using SQL server to explore data for an insurance company customer database. The analysis gave a clearer picture of the company's customer base and how to target that segment.
 Check the project at [SQL Customer Segment](https://github.com/farwaabatool/Farwa_Portfolio/blob/main/SQL%20Customer%20segment)
 
-```markdown
-Syntax highlighted code block
+## Project 2: Data Exploration using R with sql packages
 
-# Header 1
+![image](https://user-images.githubusercontent.com/88632911/177286473-28471c88-8f6b-4570-b5fc-5e6a90105c6b.png)
+
+
+The R packages for SQL i.e 'sqldf' and 'SQLite' were used to explore the employee databse for an apparel company. The analysis helped get a better understanding of the employees of the company and how to increase their productivity.
+You can view the projects at [SQL proects in R](https://github.com/farwaabatool/Farwa_Portfolio/tree/main/SQL%20packages%20in%20R) 
 ## Header 2
 ### Header 3
 
