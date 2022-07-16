@@ -17,7 +17,7 @@ Check the project at [SQL Customer Segment](https://github.com/farwaabatool/Farw
 ![image](https://user-images.githubusercontent.com/88632911/177286473-28471c88-8f6b-4570-b5fc-5e6a90105c6b.png)
 
 
-The R packages for SQL i.e 'sqldf' and 'SQLite' were used to explore the employee databse for an apparel company. The analysis helped get a better understanding of the employees of the company and how to increase their productivity.
+The R packages for SQL i.e 'sqldf' and 'SQLite' were used to explore the employee database for an apparel company. The analysis helped get a better understanding of the employees of the company and how to increase their productivity.
 
 
 You can view the projects at [SQL projects in R](https://github.com/farwaabatool/Farwa_Portfolio/tree/main/SQL%20packages%20in%20R) 
@@ -27,7 +27,7 @@ You can view the projects at [SQL projects in R](https://github.com/farwaabatool
 ![image](https://user-images.githubusercontent.com/88632911/177288775-75a2ef6d-ea4e-4b3c-bcfd-3bcfac44c947.png)
 
 
-To gauge the customer lifetime value of a snacks company and an apparel company, CLVTools and BTYD package. CLVTools enables us to get accurate the lifetime vakue of a customer, whereas BTYD predicts the cunsomer behaviour. These packages in the analysis helped in making the customer acquisition process more efficient and increasing the retention rate. 
+To gauge the customer lifetime value of a snacks company and an apparel company, CLVTools and BTYD package. CLVTools enables us to get accurate the lifetime value of a customer, whereas BTYD predicts the cunsomer behaviour. These packages in the analysis helped in making the customer acquisition process more efficient and increasing the retention rate. 
 
 
 The projects can be viewed at [CLV Analysis](https://github.com/farwaabatool/Farwa_Portfolio/tree/main/Customer%20Analysis)
@@ -47,7 +47,7 @@ View the project at [A/B Testing](https://github.com/farwaabatool/Farwa_Portfoli
 ![image](https://user-images.githubusercontent.com/88632911/177293466-9370a211-0c10-4843-a302-74ce5c66ab88.png)
 
 
-Linear Regression was run on the dataset of marekting department for a cosmetic company, to determine which marketing platform is significant for spreading their messgae and what platfrom to remove to reduce cost.
+Linear Regression was run on the dataset of marketing department for a cosmetic company, to determine which marketing platform is significant for spreading their message and what platform to remove to reduce cost.
 
 
 View the project at [Linear Regression Analysis](https://github.com/farwaabatool/Farwa_Portfolio/blob/main/Linear%20regression%20using%20R.R)
