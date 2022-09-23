@@ -62,6 +62,13 @@ TO predict the future orders for a bakery, Logistic regression was run to create
 
 View the project at [Logistic Regression Analysis](https://github.com/farwaabatool/Farwa_Portfolio/blob/main/Logistic%20Regression%20using%20R.R)
 
+## Project 5: SQL Murder Case
+
+![image](https://www.google.com/url?sa=i&url=http%3A%2F%2Fclipart-library.com%2Fmurder-cliparts.html&psig=AOvVaw1evUi07LANhmQF-T060WQj&ust=1664018825596000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjEzqvnqvoCFQAAAAAdAAAAABAD)
+
+An interesting project by Joon Park and Cathy He of Knight Lab to sharpen SQL skills. By using queries involving functions such as JOIN, WHERE, ORDER BY the killer is found hidden in the dataset. The dataset is built in SQLite as "sqlite_master". You can check the myster [here](https://mystery.knightlab.com/)
+
+View the solutions at [Murder Mystery Solution](https://gist.github.com/maartenterpstra/eacc113ca6fa2d10a8c763eca8e23fdf)
 
 ### You can reach out to me at 
 
