@@ -64,7 +64,8 @@ View the project at [Logistic Regression Analysis](https://github.com/farwaabato
 
 ## Project 5: SQL Murder Case
 
-![image](https://www.google.com/url?sa=i&url=http%3A%2F%2Fclipart-library.com%2Fmurder-cliparts.html&psig=AOvVaw1evUi07LANhmQF-T060WQj&ust=1664018825596000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjEzqvnqvoCFQAAAAAdAAAAABAD)
+![image](![image](https://user-images.githubusercontent.com/88632911/191951342-dbdb9215-183f-4ffb-a564-deef0bdc772c.png)
+)
 
 An interesting project by Joon Park and Cathy He of Knight Lab to sharpen SQL skills. By using queries involving functions such as JOIN, WHERE, ORDER BY the killer is found hidden in the dataset. The dataset is built in SQLite as "sqlite_master". You can check the myster [here](https://mystery.knightlab.com/)
 
